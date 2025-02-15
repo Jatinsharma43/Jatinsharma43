@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jatin Sharma</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img align="right" alt="coding" width="600px" height="300px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW41cHZxaWZ3NXVxejF0em93dGpwbGhnbGV1b2pqNDRibmt2NHk0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="coding" width="400px" height="300px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW41cHZxaWZ3NXVxejF0em93dGpwbGhnbGV1b2pqNDRibmt2NHk0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinsharma43&label=Profile%20views&color=0e75b6&style=flat" alt="jatinsharma43" /> </p>
 
 - 🌱 I’m currently learning **React**
