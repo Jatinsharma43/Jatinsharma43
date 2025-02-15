@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jatin Sharma</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img align="right" alt="coding" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpython-programming-language&psig=AOvVaw1e_njWDR6pcjqORDQ-OPj1&ust=1739692653327000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMD8o7CaxYsDFQAAAAAdAAAAABAK">
+<img align="right" alt="coding" width="400px" src="![image](https://github.com/user-attachments/assets/a4a1b8ee-9d52-48dd-adb6-2fbc5f327dab)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinsharma43&label=Profile%20views&color=0e75b6&style=flat" alt="jatinsharma43" /> </p>
 
 - 🌱 I’m currently learning **React**
