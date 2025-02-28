@@ -23,5 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatinsharma43&show_icons=true&locale=en" alt="jatinsharma43" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinsharma43&" alt="jatinsharma43" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jatinsharma43&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" alt="jatinsharma43" /></p>
+
 
