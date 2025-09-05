@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="300px" height="300px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW41cHZxaWZ3NXVxejF0em93dGpwbGhnbGV1b2pqNDRibmt2NHk0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinsharma43&label=Profile%20views&color=0e75b6&style=flat" alt="jatinsharma43" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MongoDB**
 
 - 💬 Ask me about **React,Javascript and gsap**
 
