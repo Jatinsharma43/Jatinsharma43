@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 💬 Ask me about **React,Javascript and gsap**
+- 💬 Ask me about **React,Javascript and C++**
 
 - 📫 How to reach me **jatin0237@gmail.com**
 
